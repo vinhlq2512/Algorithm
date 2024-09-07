@@ -21,3 +21,6 @@ var maxArea = function (height) {
 };
 
 console.log(maxArea([1, 8, 6, 2, 5, 4, 8, 3, 7]));
+// idea:
+// Area was impact by height or width min
+// so only need to check when element have value min
