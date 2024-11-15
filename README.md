@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0001-two-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinhlam2512/Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vinhlam2512/Algorithm/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 ## Binary Search
@@ -34,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Vinhlam2512/Algorithm/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Vinhlam2512/Algorithm/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Vinhlam2512/Algorithm/tree/master/0584-find-customer-referee) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
