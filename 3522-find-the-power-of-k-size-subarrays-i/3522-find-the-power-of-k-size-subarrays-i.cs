@@ -1,45 +1,31 @@
 public class Solution {
-        public int[] ResultsArray(int[] nums, int k)
- {
-     int len = nums.Length;
-     int[] res = new int[len - k + 1];
-     if (k == 1)
-     {
-         return nums;
-     }
+    public int[] ResultsArray(int[] nums, int k)
+    {
+        int len = nums.Length;
+        int[] res = new int[len - k + 1];
 
-     if (k >= len)
-     {
-         res[0] = nums.Max();
-         return res;
-     }
+        for (int i = 0; i <= len - k; i++)
+        {
+            int[] subarray = nums.Skip(i).Take(k).ToArray();
 
+            bool isConsecutive = IsConsecutiveAndSorted(subarray);
 
-     int q = 0;
-     for (int i = 0; i < len; i++)
-     {
-         for (int j = 0; j < k - 1; j++)
-         {
-             if (nums[i + j] >= nums[i + j + 1] || nums[i + j] - nums[i + j + 1] < -1)
-             {
-                 res[q] = -1;
-                 break;
-             }
-
-             if (j == k - 2)
-             {
-                 res[q] = nums[i + j + 1];
-             }
+            res[i] = isConsecutive ? subarray.Max() : -1;
+        }
 
 
-         }
-         q++;
-         if (q >= len - k + 1)
-         {
-             break;
-         }
-     }
-     return res;
- }
+        return res;
 
+        bool IsConsecutiveAndSorted(int[] arr)
+        {
+            for (int i = 1; i < arr.Length; i++)
+            {
+                if (arr[i] - arr[i - 1] != 1)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+    }
 }
