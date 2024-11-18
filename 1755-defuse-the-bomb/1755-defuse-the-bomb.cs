@@ -1,36 +1,31 @@
 public class Solution {
     public int[] Decrypt(int[] code, int k) {
         int n = code.Length;
-        int[] res = new int[n];
+        int[] result = new int[n];
+        if (k == 0) return result;
 
-        if (k == 0)
-        {
-            for (int i = 0; i < code.Length; i++)
-            {
-                res[i] = 0;
-            }
+        int start, end, sum = 0;
+
+        if (k > 0) {
+            start = 1;
+            end = k;
+        } else {
+            start = n - Math.Abs(k);
+            end = n - 1;
         }
-        else
-        {
-            int step = k < 0 ? k * -1 : k;
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 1; j <= step; j++)
-                {
-                    int index = k > 0 ? i + j : i -j;
-                    if (index < 0)
-                    {
-                        index += n;
-                    }
-                    
-                    if(index >= n)
-                    {
-                        index -= n;
-                    }
-                    res[i] += code[index];
-                }
-            }
+
+        for (int i = start; i <= end; i++) {
+            sum += code[i % n];
         }
-        return res;
+
+        for (int i = 0; i < n; i++) {
+            result[i] = sum;
+            sum -= code[start % n];
+            sum += code[(end + 1) % n];
+            start++;
+            end++;
+        }
+
+        return result;
     }
 }
