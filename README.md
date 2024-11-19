@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinhlam2512/Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Vinhlam2512/Algorithm/tree/master/1755-defuse-the-bomb) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vinhlam2512/Algorithm/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vinhlam2512/Algorithm/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vinhlam2512/Algorithm/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vinhlam2512/Algorithm/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Vinhlam2512/Algorithm/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vinhlam2512/Algorithm/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vinhlam2512/Algorithm/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
