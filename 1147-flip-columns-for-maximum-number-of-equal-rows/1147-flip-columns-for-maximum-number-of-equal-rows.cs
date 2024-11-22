@@ -5,17 +5,16 @@ public class Solution {
         int res = int.MinValue;
         Dictionary<string, int> dic = new Dictionary<string, int>();
 
-    
         for (int i = 0; i < rows; i++)
         {
             string key1 = "";
-            string key2 = "";
+            string flipKey = "";
             for (int j = 0; j < cols; j++)
             {
                  key1 += matrix[i][j].ToString();
                  
                  int keyStr = matrix[i][j] ^ 1;
-                 key2 += keyStr.ToString();
+                 flipKey += keyStr.ToString();
             }
             if (dic.ContainsKey(key1))
             {
@@ -26,17 +25,18 @@ public class Solution {
                 dic.Add(key1,1);
             }
             
-            if (dic.ContainsKey(key2))
+            if (dic.ContainsKey(flipKey))
             {
-                dic[key2]++;
+                dic[flipKey]++;
             }
             else
             {
-                dic.Add(key2,1);
+                dic.Add(flipKey,1);
             }
         }
         
         return dic.Values.Max();
     }
+
 
 }
