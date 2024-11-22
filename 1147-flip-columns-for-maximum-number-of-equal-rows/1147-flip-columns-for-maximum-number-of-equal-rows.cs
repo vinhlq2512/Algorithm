@@ -8,38 +8,35 @@ public class Solution {
     
         for (int i = 0; i < rows; i++)
         {
-            string key = "";
+            string key1 = "";
+            string key2 = "";
             for (int j = 0; j < cols; j++)
             {
-                 key += matrix[i][j].ToString();
+                 key1 += matrix[i][j].ToString();
+                 
+                 int keyStr = matrix[i][j] ^ 1;
+                 key2 += keyStr.ToString();
             }
-            if (dic.ContainsKey(key))
+            if (dic.ContainsKey(key1))
             {
-                dic[key]++;
+                dic[key1]++;
             }
             else
             {
-                dic.Add(key,1);
+                dic.Add(key1,1);
+            }
+            
+            if (dic.ContainsKey(key2))
+            {
+                dic[key2]++;
+            }
+            else
+            {
+                dic.Add(key2,1);
             }
         }
         
-        for (int i = 0; i < rows; i++)
-        {
-            string key = "";
-            for (int j = 0; j < cols; j++)
-            {
-                int keyStr = matrix[i][j] == 1 ? 0 : 1;
-                key += keyStr.ToString();
-            }
-            if (dic.ContainsKey(key))
-            {
-                dic[key]++;
-            }
-            else
-            {
-                dic.Add(key,1);
-            }
-        }
         return dic.Values.Max();
     }
+
 }
