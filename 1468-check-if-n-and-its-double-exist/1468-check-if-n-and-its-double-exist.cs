@@ -5,9 +5,11 @@ public class Solution {
 
         for (int i = 0; i < n; i++)
         {
-            if (check.Contains(arr[i] * 2) || 
-                (arr[i] % 2 == 0 && check.Contains(arr[i] / 2)))
+            if (check.Contains(arr[i] * 2))
             {
+                return true;
+            }
+            if((arr[i] % 2 == 0 && check.Contains(arr[i] / 2))){
                 return true;
             }
             check.Add(arr[i]);
