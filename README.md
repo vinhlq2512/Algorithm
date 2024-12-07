@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Vinhlam2512/Algorithm/tree/master/0069-sqrtx) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinhlam2512/Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vinhlam2512/Algorithm/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Vinhlam2512/Algorithm/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
