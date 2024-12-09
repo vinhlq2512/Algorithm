@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vinhlam2512/Algorithm/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vinhlam2512/Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3427-special-array-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vinhlam2512/Algorithm/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Vinhlam2512/Algorithm/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Binary Search
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/Vinhlam2512/Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vinhlam2512/Algorithm/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vinhlam2512/Algorithm/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3427-special-array-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
