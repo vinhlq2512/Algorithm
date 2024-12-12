@@ -1,23 +1,28 @@
 public class Solution {
-     public long PickGifts(int[] gifts, int k)
+    public long PickGifts(int[] gifts, int k)
     {
-        int n = gifts.Length;
-        for (int i = 0; i < k; i++)
+        PriorityQueue<int, int> maxHeap = new PriorityQueue<int, int>(
+            Comparer<int>.Create((a, b) => b.CompareTo(a))
+        );
+
+        foreach (int gift in gifts)
         {
-            int maxIndex = 0;
-            for (int j = 0; j < n; j++)
-            {
-                if (gifts[j] > gifts[maxIndex])
-                {
-                    maxIndex = j;
-                }
-            }
-            gifts[maxIndex] = (int)Math.Floor(
-                Math.Sqrt(gifts[maxIndex])
-            );
+            maxHeap.Enqueue(gift, gift);
         }
 
-        long sum = gifts.Sum(x => (long)x);
-        return sum;
+        for (int i = 0; i < k; i++)
+        {
+            int current = maxHeap.Dequeue();
+            int newValue = (int)Math.Floor(Math.Sqrt(current));
+            maxHeap.Enqueue(newValue, newValue);
+        }
+
+        long ans = 0;
+        while (maxHeap.Count > 0)
+        {
+            ans += maxHeap.Dequeue();
+        }
+
+        return ans;
     }
 }
