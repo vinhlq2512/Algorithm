@@ -3,37 +3,26 @@ public class Solution {
     {
         long score = 0;
         int n = nums.Length;
-        int[][] arr = new int[n][];
+        PriorityQueue<(int value, int index), (int value, int index)> queue = new PriorityQueue<(int value, int index), (int value, int index)>();
 
-        for (int i = 0; i < n; i++)
+        for (int i = 0; i < nums.Length; i++)
         {
-            arr[i] = new int[2];
-            arr[i][0] = nums[i];
-            arr[i][1] = i;
+            queue.Enqueue((nums[i], i), (nums[i], i));
         }
 
-        Array.Sort(arr, (a, b) => a[0].CompareTo(b[0]));
+        bool[] marked = new bool[n + 2];
 
-        for (int i = 0; i < arr.Length; i++)
+        while (queue.Count > 0)
         {
-            int value = arr[i][0];
-            int index = arr[i][1];
-
-            if (nums[index] != 0)
+            var item = queue.Dequeue();
+            int i = item.index + 1;
+            if (!marked[i])
             {
-                score += value;
-                if (index - 1 >= 0)
-                {
-                    nums[index - 1] = 0;
-                }
-                if (index + 1 <= n - 1)
-                {
-                    nums[index + 1] = 0;
-                }
+                score += item.value;
+                marked[i + 1] = true;
+                marked[i - 1] = true;
             }
         }
-
-
         return score;
     }
 }
