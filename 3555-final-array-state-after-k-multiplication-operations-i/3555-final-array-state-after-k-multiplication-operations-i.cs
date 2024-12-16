@@ -6,15 +6,13 @@ public class Solution {
         {
             maxHeap.Enqueue((nums[i], i), (nums[i], i));
         }
-        int j = 0;
-        while (j < k)
+        for (int i = 0; i < k; i++)
         {
-            var heap = maxHeap.Dequeue();
-            int newValue = heap.value * multiplier;
-            int index = heap.index;
+            var (value, index) = maxHeap.Dequeue();
+            int newValue = value * multiplier;
+
             nums[index] = newValue;
             maxHeap.Enqueue((newValue, index), (newValue, index));
-            j++;
         }
 
         return nums;
