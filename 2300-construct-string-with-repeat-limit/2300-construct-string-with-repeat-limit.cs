@@ -25,6 +25,7 @@ public class Solution {
             }
             freq[currentCharIndex] -= use;
 
+            // still have character after
             if (freq[currentCharIndex] > 0) 
             {
                 int smallerCharIndex = currentCharIndex - 1;
