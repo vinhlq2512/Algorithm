@@ -4,24 +4,16 @@ public class Solution {
         int n = prices.Length;
         int[] res = (int[])prices.Clone();
 
-        Stack<(int, int)> stack = new Stack<(int, int)>();
-        for (int i = n - 1; i >= 0; i--)
+        Stack<int> stack = new Stack<int>();
+        for (int i = 0; i < n; i++)
         {
-            stack.Push((prices[i], i));
-        }
-        while (stack.Count > 0)
-        {
-            (int value, int index) = stack.Pop();
-            for (int j = index + 1; j < n; j++)
+            while (stack.Count > 0 && prices[stack.Peek()] >= prices[i])
             {
-                if (value >= prices[j])
-                {
-                    res[index] = value - prices[j];
-                    break;
-                }
+                res[stack.Pop()] -= prices[i];
             }
-
+            stack.Push(i);
         }
+        
         return res;
     }
 }
