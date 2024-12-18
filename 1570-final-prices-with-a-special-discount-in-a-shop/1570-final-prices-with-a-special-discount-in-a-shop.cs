@@ -5,7 +5,7 @@ public class Solution {
         {
             for (int j = i + 1; j < prices.Length; j++)
             {
-                if (j > i && prices[j] <= prices[i])
+                if (prices[j] <= prices[i])
                 {
                     prices[i] = prices[i] - prices[j];
                     break;
