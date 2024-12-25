@@ -15,44 +15,34 @@ public class Solution {
     public IList<int> LargestValues(TreeNode root)
     {
         IList<int> result = new List<int>();
-        if(root == null)
+        if (root == null)
         {
             return result;
         }
         var queue = new Queue<TreeNode>();
         queue.Enqueue(root);
-        var totalSwaps = 0;
 
         while (queue.Count > 0)
         {
             int levelSize = queue.Count;
-            var levelValues = new int[levelSize];
+            int max = int.MinValue;
 
             for (int i = 0; i < levelSize; i++)
             {
                 var node = queue.Dequeue();
-                levelValues[i] = node.val;
+
+                max = Math.Max(max, node.val);
+
 
                 if (node.left != null)
                     queue.Enqueue(node.left);
+
                 if (node.right != null)
                     queue.Enqueue(node.right);
+
             }
-            result.Add(GetMaxValue(levelValues));
+            result.Add(max);
         }
         return result;
-    }
-
-    public int GetMaxValue(int[] levelValues)
-    {
-        int max = levelValues[0];
-        for (int i = 1; i < levelValues.Length; i++)
-        {
-            if (levelValues[i] > max)
-            {
-                max = levelValues[i];
-            }
-        }
-        return max;
     }
 }
