@@ -6,8 +6,8 @@ class Solution:
 
         for c in s:
             right[c] -= 1
-            for j in left:
-                if right[j] > 0:
-                    res.add(j + c)
+            for c_left in left:
+                if right[c_left] > 0:
+                    res.add((c, c_left))
             left.add(c)
         return len(res)
