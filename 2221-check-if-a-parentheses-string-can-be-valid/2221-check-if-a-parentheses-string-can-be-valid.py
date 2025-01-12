@@ -16,13 +16,6 @@ class Solution:
             if open_possible < 0:
                 return False
 
-        for i in range(n - 1, -1, -1):
-            if locked[i] == '0' or s[i] == ')':
-                close_possible += 1
-            else:
-                close_possible -= 1
-            
-            if close_possible < 0:
-                return False
+
 
         return True
