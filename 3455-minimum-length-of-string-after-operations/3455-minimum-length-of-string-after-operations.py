@@ -7,8 +7,14 @@ class Solution:
 
         print(freq_char)
         for i in range(26):
-            while freq_char[i] != 0 and ((freq_char[i] % 2 == 1 and freq_char[i] != 1) or (freq_char[i] % 2 == 0 and freq_char[i] != 2)) :
-                freq_char[i] -= 2
-                res -= 2
+           if freq_char[i] > 0:
+               if freq_char[i] % 2 == 1:
+                   while freq_char[i] != 1:
+                       freq_char[i] -= 2
+                       res -= 2
+               else:
+                   while freq_char[i] != 2:
+                       freq_char[i] -= 2
+                       res -= 2
 
         return res
