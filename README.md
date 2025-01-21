@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Vinhlam2512/Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [1972-rotating-the-box](https://github.com/Vinhlam2512/Algorithm/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Vinhlam2512/Algorithm/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Vinhlam2512/Algorithm/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vinhlam2512/Algorithm/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/2232-adding-spaces-to-a-string) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinhlam2512/Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vinhlam2512/Algorithm/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Vinhlam2512/Algorithm/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vinhlam2512/Algorithm/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinhlam2512/Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vinhlam2512/Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Vinhlam2512/Algorithm/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Vinhlam2512/Algorithm/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vinhlam2512/Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Vinhlam2512/Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
