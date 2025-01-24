@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Vinhlam2512/Algorithm/tree/master/0787-sliding-puzzle) |
+| [0820-find-eventual-safe-states](https://github.com/Vinhlam2512/Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/Vinhlam2512/Algorithm/tree/master/1876-map-of-highest-peak) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vinhlam2512/Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Vinhlam2512/Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Vinhlam2512/Algorithm/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vinhlam2512/Algorithm/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0820-find-eventual-safe-states](https://github.com/Vinhlam2512/Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Vinhlam2512/Algorithm/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinhlam2512/Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Vinhlam2512/Algorithm/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
