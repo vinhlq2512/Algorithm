@@ -9,13 +9,8 @@ class Solution:
 
         for i in range(1, n):
             if nums[i - 1] < nums[i]:
-                if is_decreasing:
-                    max_sum += nums[i]
-                else:
-                    max_sum = nums[i] + nums[i - 1]
-
+                max_sum = max_sum + nums[i] if is_decreasing else nums[i] + nums[i - 1]
                 is_decreasing = True
-
             else:
                 max_sum = nums[i - 1]
                 is_decreasing = False
