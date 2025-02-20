@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinhlam2512/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0952-word-subsets](https://github.com/Vinhlam2512/Algorithm/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vinhlam2512/Algorithm/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinhlam2512/Algorithm/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Vinhlam2512/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vinhlam2512/Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinhlam2512/Algorithm/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vinhlam2512/Algorithm/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
