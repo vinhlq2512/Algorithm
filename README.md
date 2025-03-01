@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Vinhlam2512/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0952-word-subsets](https://github.com/Vinhlam2512/Algorithm/tree/master/0952-word-subsets) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Vinhlam2512/Algorithm/tree/master/1170-shortest-common-supersequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vinhlam2512/Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vinhlam2512/Algorithm/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Vinhlam2512/Algorithm/tree/master/0820-find-eventual-safe-states) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Vinhlam2512/Algorithm/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Vinhlam2512/Algorithm/tree/master/2201-valid-arrangement-of-pairs) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinhlam2512/Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Vinhlam2512/Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Vinhlam2512/Algorithm/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vinhlam2512/Algorithm/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Vinhlam2512/Algorithm/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
