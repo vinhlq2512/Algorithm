@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vinhlam2512/Algorithm/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vinhlam2512/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vinhlam2512/Algorithm/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Vinhlam2512/Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinhlam2512/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinhlam2512/Algorithm/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vinhlam2512/Algorithm/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Vinhlam2512/Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinhlam2512/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vinhlam2512/Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
