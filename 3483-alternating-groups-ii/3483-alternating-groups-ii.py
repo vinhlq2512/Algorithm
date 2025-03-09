@@ -1,6 +1,6 @@
 class Solution:
     def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
-        colors = colors + colors[:k - 1]  # Extend for circular behavior
+        colors = colors + colors[:k - 1] 
         res = 0
         left = 0
 
