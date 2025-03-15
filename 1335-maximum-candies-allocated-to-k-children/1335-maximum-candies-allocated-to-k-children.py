@@ -1,23 +1,19 @@
 class Solution:
     def maximumCandies(self, candies, k):
-        max_candies = 0
-        for candie in candies:
-            max_candies = max(max_candies, candie)
+        if sum(candies) < k:  
+            return 0  
 
-        left = 0
-        right = max_candies
-        while left < right:
+        left, right = 1, max(candies)
+        res = 0
+        
+        while left <= right:
             mid = (left + right + 1) // 2
-            if self.can_allocate(candies, k, mid):
-                left = mid
+            count = sum(c // mid for c in candies)  
+            
+            if count >= k:  
+                res = mid  
+                left = mid + 1  
             else:
-                right = mid - 1
-
-        return left
-
-    def can_allocate(self, candies: List[int], k: int, number_candies: int) -> bool:
-        max_children = 0
-        for candie in candies:
-            max_children += candie // number_candies
-
-        return max_children >= k
+                right = mid - 1  
+        
+        return res
