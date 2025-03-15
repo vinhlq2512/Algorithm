@@ -4,16 +4,14 @@ class Solution:
             return 0  
 
         left, right = 1, max(candies)
-        res = 0
         
-        while left <= right:
-            mid = (left + right + 1) // 2
-            count = sum(c // mid for c in candies)  
-            
-            if count >= k:  
-                res = mid  
-                left = mid + 1  
+        while left < right:
+            mid = (left + right + 1) // 2  
+            count = sum((c - (c % mid)) // mid for c in candies) 
+
+            if count >= k:
+                left = mid  
             else:
                 right = mid - 1  
         
-        return res
+        return left
