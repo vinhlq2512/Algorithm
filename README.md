@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Vinhlam2512/Algorithm/tree/master/0952-word-subsets) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Vinhlam2512/Algorithm/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Vinhlam2512/Algorithm/tree/master/0069-sqrtx) |
+| [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinhlam2512/Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Vinhlam2512/Algorithm/tree/master/2164-two-best-non-overlapping-events) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Vinhlam2512/Algorithm/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vinhlam2512/Algorithm/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -565,5 +569,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinhlam2512/Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
