@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vinhlam2512/Algorithm/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vinhlam2512/Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinhlam2512/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Vinhlam2512/Algorithm/tree/master/0217-contains-duplicate) |
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Vinhlam2512/Algorithm/tree/master/0605-can-place-flowers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Vinhlam2512/Algorithm/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vinhlam2512/Algorithm/tree/master/0217-contains-duplicate) |
 | [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
