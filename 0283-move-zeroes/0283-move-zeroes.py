@@ -1,16 +1,9 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        queue = deque()
-        
-        for num in nums:
-            if num != 0:
-                queue.append(num)
-        
+        j = 0  
         for i in range(len(nums)):
-            if queue:
-                nums[i] = queue.popleft()
-            else:
-                nums[i] = 0
+            if nums[i] != 0:
+                nums[j] = nums[i]
+                if i != j:
+                    nums[i] = 0
+                j += 1
