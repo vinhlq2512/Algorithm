@@ -1,9 +1,6 @@
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        largest = candies[0]
-        for candidate in candies:
-            if candidate > largest:
-                largest = candidate
+        largest = max(candies)
         
         result = [False] * len(candies)
 
