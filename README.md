@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vinhlam2512/Algorithm/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Vinhlam2512/Algorithm/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0392-is-subsequence) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Vinhlam2512/Algorithm/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinhlam2512/Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vinhlam2512/Algorithm/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Vinhlam2512/Algorithm/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0392-is-subsequence) |
 | [0952-word-subsets](https://github.com/Vinhlam2512/Algorithm/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1170-shortest-common-supersequence](https://github.com/Vinhlam2512/Algorithm/tree/master/1170-shortest-common-supersequence) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vinhlam2512/Algorithm/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vinhlam2512/Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinhlam2512/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vinhlam2512/Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
