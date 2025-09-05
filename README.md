@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Vinhlam2512/Algorithm/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Vinhlam2512/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vinhlam2512/Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0787-sliding-puzzle](https://github.com/Vinhlam2512/Algorithm/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Vinhlam2512/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Vinhlam2512/Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Vinhlam2512/Algorithm/tree/master/1755-defuse-the-bomb) |
