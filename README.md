@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Vinhlam2512/Algorithm/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Vinhlam2512/Algorithm/tree/master/0643-maximum-average-subarray-i) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Vinhlam2512/Algorithm/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0724-find-pivot-index](https://github.com/Vinhlam2512/Algorithm/tree/master/0724-find-pivot-index) |
 | [0787-sliding-puzzle](https://github.com/Vinhlam2512/Algorithm/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Vinhlam2512/Algorithm/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Vinhlam2512/Algorithm/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
