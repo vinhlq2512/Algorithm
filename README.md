@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vinhlam2512/Algorithm/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Vinhlam2512/Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vinhlam2512/Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -592,4 +593,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/Vinhlam2512/Algorithm/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinhlam2512/Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Vinhlam2512/Algorithm/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
