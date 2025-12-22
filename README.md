@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Vinhlam2512/Algorithm/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Vinhlam2512/Algorithm/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vinhlam2512/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Vinhlam2512/Algorithm/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Vinhlam2512/Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vinhlam2512/Algorithm/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vinhlam2512/Algorithm/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/Vinhlam2512/Algorithm/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vinhlam2512/Algorithm/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vinhlam2512/Algorithm/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Vinhlam2512/Algorithm/tree/master/0787-sliding-puzzle) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vinhlam2512/Algorithm/tree/master/0200-number-of-islands) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vinhlam2512/Algorithm/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/Vinhlam2512/Algorithm/tree/master/0820-find-eventual-safe-states) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Vinhlam2512/Algorithm/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -562,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vinhlam2512/Algorithm/tree/master/0200-number-of-islands) |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Vinhlam2512/Algorithm/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
