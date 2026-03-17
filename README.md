@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vinhlam2512/Algorithm/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Vinhlam2512/Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Vinhlam2512/Algorithm/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/vinhlq2512/Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Vinhlam2512/Algorithm/tree/master/0605-can-place-flowers) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinhlq2512/Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Vinhlam2512/Algorithm/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinhlq2512/Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/vinhlq2512/Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vinhlam2512/Algorithm/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
