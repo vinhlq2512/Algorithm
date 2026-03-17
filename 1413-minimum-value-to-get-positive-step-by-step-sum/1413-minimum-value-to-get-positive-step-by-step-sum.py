@@ -1,20 +1,14 @@
 class Solution:
     def minStartValue(self, nums: List[int]) -> int:
         n = 1
-        length = len(nums)
         while True:
-            check = True
-            pre =[0] * (length + 1)
-            pre[0] = n
-            for i in range(length):
-                pre[i + 1] = pre[i] + nums[i]
-                print("pre[{}] = pre[{}] + nums[{}]".format(i + 1, i, i))
-                print("pre[{}] = {} + {}".format(i + 1, pre[i], nums[i]))
-                if pre[i + 1] < 1:
-                    check = False
+            prefix_sum = n
+            valid = True
+            for num in nums:
+                prefix_sum += num
+                if prefix_sum < 1:
+                    valid = False
                     break
-
-            if check:
+            if valid:
                 return n
-            else:
-                n = n + 1
+            n += 1
