@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vinhlam2512/Algorithm/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Vinhlam2512/Algorithm/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Vinhlam2512/Algorithm/tree/master/1396-count-servers-that-communicate) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinhlq2512/Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [1524-string-matching-in-an-array](https://github.com/Vinhlam2512/Algorithm/tree/master/1524-string-matching-in-an-array) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Vinhlam2512/Algorithm/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinhlq2512/Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Vinhlam2512/Algorithm/tree/master/1833-find-the-highest-altitude) |
