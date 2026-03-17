@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinhlq2512/Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vinhlam2512/Algorithm/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/vinhlq2512/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1524-string-matching-in-an-array](https://github.com/Vinhlam2512/Algorithm/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Vinhlam2512/Algorithm/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinhlam2512/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/vinhlq2512/Algorithm/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
+| [1480-running-sum-of-1d-array](https://github.com/vinhlq2512/Algorithm/tree/master/1480-running-sum-of-1d-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/Vinhlam2512/Algorithm/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinhlam2512/Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
