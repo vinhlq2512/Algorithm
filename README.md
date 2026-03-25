@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/Vinhlam2512/Algorithm/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/Vinhlam2512/Algorithm/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Vinhlam2512/Algorithm/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2906-construct-product-matrix](https://github.com/vinhlq2512/Algorithm/tree/master/2906-construct-product-matrix) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Vinhlam2512/Algorithm/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vinhlam2512/Algorithm/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Vinhlam2512/Algorithm/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vinhlam2512/Algorithm/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2906-construct-product-matrix](https://github.com/vinhlq2512/Algorithm/tree/master/2906-construct-product-matrix) |
 | [3427-special-array-ii](https://github.com/Vinhlam2512/Algorithm/tree/master/3427-special-array-ii) |
 ## Monotonic Queue
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Vinhlam2512/Algorithm/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vinhlam2512/Algorithm/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2906-construct-product-matrix](https://github.com/vinhlq2512/Algorithm/tree/master/2906-construct-product-matrix) |
 | [3227-find-missing-and-repeated-values](https://github.com/Vinhlam2512/Algorithm/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
