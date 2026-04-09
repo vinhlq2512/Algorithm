@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vinhlam2512/Algorithm/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vinhlam2512/Algorithm/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Vinhlam2512/Algorithm/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1929-concatenation-of-array](https://github.com/vinhlq2512/Algorithm/tree/master/1929-concatenation-of-array) |
 | [1972-rotating-the-box](https://github.com/Vinhlam2512/Algorithm/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Vinhlam2512/Algorithm/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2054-two-best-non-overlapping-events](https://github.com/Vinhlam2512/Algorithm/tree/master/2054-two-best-non-overlapping-events) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/vinhlq2512/Algorithm/tree/master/1929-concatenation-of-array) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinhlam2512/Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vinhlam2512/Algorithm/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Vinhlam2512/Algorithm/tree/master/2265-partition-array-according-to-given-pivot) |
