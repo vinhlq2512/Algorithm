@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinhlam2512/Algorithm/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/vinhlq2512/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vinhlam2512/Algorithm/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vinhlam2512/Algorithm/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Vinhlam2512/Algorithm/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vinhlq2512/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vinhlam2512/Algorithm/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Vinhlam2512/Algorithm/tree/master/2868-continuous-subarrays) |
 ## Heap (Priority Queue)
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/vinhlq2512/Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/vinhlq2512/Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Vinhlam2512/Algorithm/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Vinhlam2512/Algorithm/tree/master/2434-design-a-number-container-system) |
